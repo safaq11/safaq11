@@ -37,7 +37,7 @@ An Angular-based e-commerce application with a modern UI and responsive design.
 
 ### 🚆 IRCTC Clone
 
-A railway ticket booking interface built using Angular.
+A railway ticket booking interface built using jsp and jdbc.
 
 ### 💬 Chat Application
 
